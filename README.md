@@ -4,6 +4,7 @@ A simple React application that allows users to create, read, update, and delete
 The app uses Bootstrap for styling, JSON Server for mock backend data, and Axios for HTTP requests
 
 ##Deployment
+https://simple-react-crud-app.netlify.app/
 
 
 ## Features
