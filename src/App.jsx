@@ -42,7 +42,8 @@ const App = () => {
                 </div>
 
                 <ul className='list-group mb-5'>
-
+                        
+                        
                     {posts.map((post) => (
 
                         <li key={post.id} className='list group-item mb-5'>
