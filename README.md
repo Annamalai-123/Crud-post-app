@@ -3,7 +3,7 @@
 A simple React application that allows users to create, read, update, and delete (CRUD) posts.
 The app uses Bootstrap for styling, JSON Server for mock backend data, and Axios for HTTP requests
 
-##Deployment
+# Deployment
 https://simple-react-crud-app.netlify.app/
 
 
