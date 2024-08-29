@@ -1,3 +1,14 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "title": "ANNAMALAI",
+      "content": "SOFTWARE DEVELOPER COIMBATORE",
+      "id": "b60e"
+    },
+    {
+      "id": "d557",
+      "title": "REACT ",
+      "content": "learn from the youtube"
+    }
+  ]
 }
