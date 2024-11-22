@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "server": "npx json-server db.json",
-    "start": "json-server db.json --port 3000 --static false"
+    "start": "json-server db.json --port 3000 "
 
   },
   "dependencies": {
